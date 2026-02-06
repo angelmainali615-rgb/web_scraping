@@ -27,5 +27,5 @@ This project focuses on **ethical and educational web scraping**.
 
 ---
 
-## 📂 Project Structure
+
 
